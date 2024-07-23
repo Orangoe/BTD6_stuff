@@ -1,4 +1,4 @@
-##DISCLAIMER
+## DISCLAIMER
 
 By using this software, you agree to the following terms and conditions:
 
